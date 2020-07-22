@@ -1,18 +1,16 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is Quentin Da Silva. 👋🤓</h2>
+<p align="center">I'm a student at the University of Orleans, in France. I'm learning several tools to get computer knowledge. In addition to my studies, I try to learn as much as I can on my own!</p>
 
-<!--
-**DSQuentin/DSQuentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![DSQuentin github stats](https://github-readme-stats.vercel.app/api?username=DSQuentin&show_icons=true&hide_border=true)
+### 📚 Where I'm currently studying
+- [IUT of Orléans, France](https://www.univ-orleans.fr/fr/iut-orleans) 🏫
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 What am currently learning
+- Web development : PHP Langage 🐘
+- Software development : Java Langage ☕
+
+### 📫 Where to find me
+- [Twitter](https://twitter.com/saylux_) 🐤
+
+<h4 align="center">From <a href="https://github.com/DSquentin/DSQuentin"> Da Silva Quentin's Github Profile Readme MD</a></h4>
