@@ -8,7 +8,7 @@
 
 ### 📖 What am currently learning
 - Web development : PHP Langage 🐘
-- Software development : Java Langage ☕
+- Software development : Java ☕ Python 🐍
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/saylux_) 🐤
