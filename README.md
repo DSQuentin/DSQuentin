@@ -7,7 +7,7 @@
 
 
 ### 📖 What am currently learning
-- Web development : PHP 🐘
+- Web development : PHP (Symfony) 🐘
 - Software development : Java ☕ Python 🐍
 
 ### 📫 Where to find me
