@@ -8,7 +8,7 @@
 
 ### 📖 What am currently learning
 - Web development : PHP (Symfony) 🐘
-- Software development : Java ☕ Python 🐍
+- Software development : Java ☕ Python 🐍 C ⌨️
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/saylux_) 🐤
