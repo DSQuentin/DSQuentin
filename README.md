@@ -10,7 +10,4 @@
 - Web development : PHP (Symfony) 🐘 Javascript (React) ⚛️
 - Software development : Java ☕ Python 🐍
 
-### 📫 Where to find me
-- [Twitter](https://twitter.com/saylux_) 🐤
-
 <h4 align="center">From <a href="https://github.com/DSquentin/DSQuentin"> Quentin's Github Profile Readme MD</a></h4>
