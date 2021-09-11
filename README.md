@@ -3,11 +3,9 @@
 
 
 ### 📚 Where I'm currently studying
-- [IUT of Orléans, France](https://www.univ-orleans.fr/fr/iut-orleans) 🏫
+- [Science and Techniques College, Orléans, France](https://www.univ-orleans.fr/fr/sciences-techniques) 🏫
 
 
 ### 📖 What am currently learning
-- Web development : PHP (Symfony) 🐘 Javascript (React) ⚛️
+- Web development : PHP (Symfony) 🐘 Javascript (React / Next) ⚛️
 - Software development : Java ☕ Python 🐍
-
-<h4 align="center">From <a href="https://github.com/DSquentin/DSQuentin"> Quentin's Github Profile Readme MD</a></h4>
