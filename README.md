@@ -5,7 +5,7 @@
 
 ## 😃 About me
 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, Vue JS**
+- Front-end development using **HTML, Javascript (React.js and Next.js), CSS (TailwindCSS and Bootstrap)**
 - Backend development using **PHP, Symfony**
 - Portfolio site: [Portfolio](https://www.quentin-dasilva.fr/)
 
