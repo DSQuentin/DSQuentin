@@ -7,7 +7,7 @@
 ## 😃 About me
 
 - Front-end development using **HTML, Javascript (React.js and Next.js), CSS (TailwindCSS and Bootstrap)**
-- Backend development using **PHP, Symfony**
-- Portfolio site: [Portfolio](https://www.quentin-dasilva.fr/)
+- Backend development using **PHP, Symfony, Laravel**
+- My website: [Link](https://www.quentin-dasilva.fr/)
 
 Thanks for stopping by!
